@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467570768840",
+    "firebase_url": "https://fir-app-ec3d2.firebaseio.com",
+    "project_id": "fir-app-ec3d2",
+    "storage_bucket": "fir-app-ec3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "com.apps.harsh.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
